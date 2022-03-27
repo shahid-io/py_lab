@@ -1,3 +1,3 @@
 # py_lab
 
-this repo cntains only learnings experiments
+this repo contains only learning experiments
